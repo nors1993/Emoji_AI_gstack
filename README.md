@@ -122,6 +122,8 @@ This project supports any OpenAI-compatible API:
 - **SiliconFlow** - https://api.siliconflow.cn/v1
 - **OpenAI** - https://api.openai.com/v1
 
+## Demo
+![alt text](image.png)
 ## License
 
 MIT
